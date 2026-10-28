@@ -18,8 +18,8 @@ Automatically detect your TV, find compatible unofficial firmware, remove unwant
   <img src="https://img.shields.io/badge/⬇%20Download-Latest%20Release-8B5CF6?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Download Latest Release">
 </a>
 &nbsp;&nbsp;
-<a href="https://htmlpreview.github.io/?https://github.com/angelicaunt/CleanTV/blob/main/index.html">
-  <img src="https://img.shields.io/badge/◉%20Preview-Interface-A78BFA?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Preview Interface">
+<a href="https://angelicaunt.github.io/CleanTV/ui-preview.html">
+  <img src="https://img.shields.io/badge/◉%20Preview-Interface-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Preview Interface">
 </a>
 
 <br><br>
