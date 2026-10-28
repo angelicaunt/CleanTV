@@ -14,12 +14,12 @@ Automatically detect your TV, find compatible unofficial firmware, remove unwant
 
 <br>
 
-<a href="https://github.com/OWNER/REPO/releases/latest">
-  <img src="https://img.shields.io/badge/⬇%20Download-Latest%20Release-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Download Latest Release">
+<a href="https://github.com/angelicaunt/CleanTV/releases/latest/download/CleanTV-V1.zip">
+  <img src="https://img.shields.io/badge/⬇%20Download-Latest%20Release-8B5CF6?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Download Latest Release">
 </a>
-&nbsp;
-<a href="https://htmlpreview.github.io/?https://github.com/OWNER/REPO/blob/main/index.html">
-  <img src="https://img.shields.io/badge/◉%20Preview-Interface-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Preview Interface">
+&nbsp;&nbsp;
+<a href="https://htmlpreview.github.io/?https://github.com/angelicaunt/CleanTV/blob/main/index.html">
+  <img src="https://img.shields.io/badge/◉%20Preview-Interface-A78BFA?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Preview Interface">
 </a>
 
 <br><br>
@@ -34,7 +34,6 @@ Automatically detect your TV, find compatible unofficial firmware, remove unwant
 
 </div>
 
----
 ---
 
 ## 💜 What is CleanTV?
