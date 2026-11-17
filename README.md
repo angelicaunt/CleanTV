@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦ CleanTV
+# ✦ CleanTV.Upgrade your TV software. No ads, go more speed 
 
 ### A Cleaner Android TV. A Smoother Experience.
 
